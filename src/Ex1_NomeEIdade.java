@@ -28,6 +28,6 @@ public class Ex1_NomeEIdade {
         }
 
 
-         System.out.println("continua aqui");
+         System.out.println("continua aqui por favor");
     }
 }
