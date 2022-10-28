@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c533244b-b8fc-492a-9c38-a622094d11db" name="Changes" comment="Exercício Par ou Impar">
+      <change afterPath="$PROJECT_DIR$/src/Ex5_Tabuada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex4_ParImpar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex4_ParImpar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex4_ParImpar">
+  <component name="RunManager" selected="Application.Ex5_Tabuada">
     <configuration name="Ex3_MaiorEMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex_MaiorEMedia.Ex3_MaiorEMedia" />
       <module name="Exercicios-Java-Dio" />
@@ -59,8 +59,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex5_Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_Tabuada" />
+      <module name="Exercicios-Java-Dio" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex5_Tabuada" />
         <item itemvalue="Application.Ex4_ParImpar" />
         <item itemvalue="Application.Ex3_MaiorEMedia" />
       </list>
@@ -124,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666967498268</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Exercício Par ou Impar">
+      <created>1666969657125</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666969657125</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
