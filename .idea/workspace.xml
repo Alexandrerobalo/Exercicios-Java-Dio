@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c533244b-b8fc-492a-9c38-a622094d11db" name="Changes" comment="alteração">
-      <change afterPath="$PROJECT_DIR$/src/Ex_MaiorEMedia/Java.java" afterDir="false" />
+    <list default="true" id="c533244b-b8fc-492a-9c38-a622094d11db" name="Changes" comment="Exercício maior e Média">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_MaiorEMedia/Java.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_MaiorEMedia/Ex3_MaiorEMedia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,26 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Ex3_MaiorEMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_MaiorEMedia.Ex3_MaiorEMedia" />
+      <module name="Exercicios-Java-Dio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex_MaiorEMedia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex3_MaiorEMedia" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666961165725</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercício maior e Média">
+      <created>1666961656856</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666961656856</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Exercício maior e Média">
+      <created>1666961688662</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666961688662</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit exercício java Dio" />
     <MESSAGE value="alteração" />
-    <option name="LAST_COMMIT_MESSAGE" value="alteração" />
+    <MESSAGE value="Exercício maior e Média" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício maior e Média" />
   </component>
 </project>
