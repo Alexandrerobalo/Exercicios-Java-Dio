@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c533244b-b8fc-492a-9c38-a622094d11db" name="Changes" comment="Exercício Par ou Impar">
-      <change afterPath="$PROJECT_DIR$/src/Ex5_Tabuada.java" afterDir="false" />
+    <list default="true" id="c533244b-b8fc-492a-9c38-a622094d11db" name="Changes" comment="Exercício tabuada.">
+      <change afterPath="$PROJECT_DIR$/src/Ex1_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_Fatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_consoante.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +29,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Gilorj99XAua7kiuP0uX4qEMH7" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,7 +42,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex5_Tabuada">
+  <component name="RunManager" selected="Application.Ex_consoante">
     <configuration name="Ex3_MaiorEMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex_MaiorEMedia.Ex3_MaiorEMedia" />
       <module name="Exercicios-Java-Dio" />
@@ -66,8 +70,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex6_Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6_Fatorial" />
+      <module name="Exercicios-Java-Dio" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_consoante" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_consoante" />
+      <module name="Exercicios-Java-Dio" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex_consoante" />
+        <item itemvalue="Application.Ex6_Fatorial" />
         <item itemvalue="Application.Ex5_Tabuada" />
         <item itemvalue="Application.Ex4_ParImpar" />
         <item itemvalue="Application.Ex3_MaiorEMedia" />
@@ -139,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666969657125</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Exercício tabuada.">
+      <created>1666979535390</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666979535390</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +185,7 @@
     <MESSAGE value="alteração" />
     <MESSAGE value="Exercício maior e Média" />
     <MESSAGE value="Exercício Par ou Impar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercício Par ou Impar" />
+    <MESSAGE value="Exercício tabuada." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício tabuada." />
   </component>
 </project>
