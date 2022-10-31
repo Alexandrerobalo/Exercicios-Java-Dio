@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c533244b-b8fc-492a-9c38-a622094d11db" name="Changes" comment="Exercício tabuada.">
-      <change afterPath="$PROJECT_DIR$/src/Ex1_arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex6_Fatorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_consoante.java" afterDir="false" />
+    <list default="true" id="c533244b-b8fc-492a-9c38-a622094d11db" name="Changes" comment="Exercício">
+      <change afterPath="$PROJECT_DIR$/src/Desafio_OsNumeros_SaoIguais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex8_numeros_aleatorios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_10ArrayMultidimensional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,36 +42,30 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex_consoante">
-    <configuration name="Ex3_MaiorEMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_MaiorEMedia.Ex3_MaiorEMedia" />
-      <module name="Exercicios-Java-Dio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ex_MaiorEMedia.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex4_ParImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex4_ParImpar" />
+  <component name="RunManager" selected="Application.Desafio_OsNumeros_SaoIguais">
+    <configuration name="Desafio_OsNumeros_SaoIguais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafio_OsNumeros_SaoIguais" />
       <module name="Exercicios-Java-Dio" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_Tabuada" />
+    <configuration name="Ex2_Nota" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex2_Nota" />
       <module name="Exercicios-Java-Dio" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6_Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex6_Fatorial" />
+    <configuration name="Ex8_numeros_aleatorios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex8_numeros_aleatorios" />
+      <module name="Exercicios-Java-Dio" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_10ArrayMultidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_10ArrayMultidimensional" />
       <module name="Exercicios-Java-Dio" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Desafio_OsNumeros_SaoIguais" />
+        <item itemvalue="Application.Ex2_Nota" />
+        <item itemvalue="Application.Ex_10ArrayMultidimensional" />
+        <item itemvalue="Application.Ex8_numeros_aleatorios" />
         <item itemvalue="Application.Ex_consoante" />
-        <item itemvalue="Application.Ex6_Fatorial" />
-        <item itemvalue="Application.Ex5_Tabuada" />
-        <item itemvalue="Application.Ex4_ParImpar" />
-        <item itemvalue="Application.Ex3_MaiorEMedia" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666979535390</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Exercício tabuada.">
+      <created>1666986414869</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666986414869</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
